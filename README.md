@@ -1,6 +1,8 @@
 # pathwaysSOT2023
 SOT 2023 poster: "Characterizing pathways of exposure for risk-based chemical prioritization"
+
 Abstract number 3816
+
 Poster board P305
 
 Caroline L. Ring [1], Paul M. Kruse [1,2], John F. Wambaugh [1], Kristin K. Isaacs [1]
